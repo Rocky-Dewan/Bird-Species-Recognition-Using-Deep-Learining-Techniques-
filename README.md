@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/rockydewan250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ravi-gupta-44bb451b1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rock_._y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__ravi_gupta226/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Dewan.Rocky.250.oil.of.vitriol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/channel/ucojospamwhg5j9sj4sgtbzw" height="30" width="40" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,6 +27,8 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
     </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
 </p>
 
 
